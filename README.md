@@ -1,4 +1,4 @@
-# Zepto Data & AI Platform
+# Zepto AI & ML Platform
 
 An end-to-end AI/ML capstone project for Zepto's analytics guild, combining three connected capabilities:
 1. **Data Engineering Pipeline** (`/data_pipeline`) — scrapes, cleans, and stores catalog data in a relational database.
